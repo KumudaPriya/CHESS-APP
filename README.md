@@ -33,6 +33,7 @@ Techincal Aspects :-
 Wee need to use real time database for this app . Because while playing the game , the state will be constantly changing and it should be proccessed in real time.
 
 Technologies :-
+
 FireBase     ----  Real time database used.
 
 JQUERY       ----  For checking validations of chess moves JQUERY is used.
