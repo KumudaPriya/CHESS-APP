@@ -34,6 +34,8 @@ Wee need to use real time database for this app . Because while playing the game
 
 Technologies :-
 FireBase     ----  Real time database used.
+
 JQUERY       ----  For checking validations of chess moves JQUERY is used.
+
 Angular Js   ----  Backend i.e entire database part and requests to database etc is written using Angular Js.
 
