@@ -38,7 +38,7 @@ Technologies :-
 
 FireBase     ----  Real time database used.
 
-JavaScipt       ----  For checking validations of chess moves JavaScipt is used.
+JavaScript       ----  For checking validations of chess moves JavaScript is used.
 
 Angular Js   ----  Backend i.e entire database part and requests to database etc is written using Angular Js.
 
