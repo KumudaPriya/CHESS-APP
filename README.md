@@ -12,7 +12,8 @@ Else if you are not a user , you can sign up.
 
 After login or SignUp now you will enter the friends Page.
 
-2.How to start a game 
+2.How to start a game :-
+
 Game request should be sent and the other person should accept your request.This can be done only among friends.
 
 If you want to play a game with someone then ,
